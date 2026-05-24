@@ -1,0 +1,12 @@
+1. bizning kurslardagi kursni tanlagandan keyin ariza yuborishda telegram kanalga bolsin yani telegram kanal t.me/cm95uz ga o'sha ariza yozgan malumotlar ism familiya telefon raqami kurs nomi dars kuni dars vaqti va izohda nima yozilganligi osha telegram kanalga yuborilgan bolsin.
+2. dark/light rejimi bolsin. va mobile view va pc view ga moslashgan bolsin yani mobile brauzerdan kirganda ham razmer hammasi joyida bolsin.
+ISHLADI
+
+kursga yozilishda  form pc da ham mobile da ham kichikroq bolsin ekranga sig'mayapti shuni fix qil. va tel raqamda 9 ta raqam bolishi kerak user 9 tadan keyin yozolmasin. va ariza yuborgandan song userda telegram kanalga o'tish bolmasin va faqat yopish knopkasi bo'lsin.  
+ISHLADI
+
+endi biz haqimizda manzilga shu  https://www.google.com/maps/place/ClassMaster/@41.553137,60.9960846,18z/data=!4m14!1m7!3m6!1s0x41e079007918c205:0xfaa17bde7bfac8a5!2z0KLRg9GA0YLQutGD0LvRjA!8m2!3d41.619168!4d60.9743809!16s%2Fg%2F11xp8hg660!3m5!1s0x41dfd97ea5a1efa7:0x8604a00892a0aa97!8m2!3d41.5526679!4d60.9975609!16s%2Fg%2F11sqf49mzc?entry=ttu&g_ep=EgoyMDI2MDUwMi4wIKXMDSoASAFQAw%3D%3D shu maps bolsin. 
+va tel raqamda tel:+998958995500 bolsin yani ustiga bosganda ilova telefonga ochadi. email ham mailto qilib tashla. 
+ISHLADI
+
+
